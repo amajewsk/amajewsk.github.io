@@ -113,16 +113,16 @@ __Terrain Effects on Clouds and Precipitation—an Educational Campaign__, Salt 
 
 ## Work Experience
 
-`Summer 2015`
-__Schlumberger__, Abilene, TX
-
-- Wireline Engineer Intern
-
 `2015-2016`
 __Icerink Operations__, Cranberry, PA
 
 - Zamboni Driver
 - Maintenance
+
+`Summer 2015`
+__Schlumberger__, Abilene, TX
+
+- Wireline Engineer Intern
 
 `Summers 2011-2015`
 __Marshall Township Parks and Recreation__, Warrendale, PA
