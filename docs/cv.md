@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Adam Majewski's CV
+permalink: /cv/
 ---
 # Adam Majewski
 Graduate Research Assistant | Chemical Engineering (BS), Atmospheric Science (PhD)
